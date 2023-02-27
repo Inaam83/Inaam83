@@ -1,11 +1,15 @@
-Hello, I'm a young and driven BSCS student at Iqra University, with a passion for data analytics and using data to inform business decisions. Here's a bit more about me:
+Hi there, I'm Inaam Ullah Khan! 👋
+I am a highly motivated data enthusiast with a passion for using data to inform business decisions. I have experience in SQL, Power BI, Python, and Excel, and I am constantly expanding my knowledge and skills in data analytics.
 
-Technical Skills: I have experience working with SQL, Power BI, Python and Excel, and I am currently enrolled in a Python for Data Analytics course to further develop my skills.
+💻 Technical Skills
+SQL
+Power BI
+Python
+Excel
+Video editing
 
-Background: While I have a background in web development, including HTML, CSS, JavaScript, Bootstrap and jQuery, I have found my true passion lies in the field of data analytics.
+🎯 Career Goals
+As a data analyst, my goal is to uncover insights and help organizations make data-driven decisions. I am excited to collaborate with like-minded professionals in the fields of data analytics and video production to make a positive impact in our industries.
 
-Career Goals: As a data analyst, I hope to use my skills to uncover insights and help organizations make data-driven decisions.
-
-Video Editing: In addition to my technical skills, I also have experience as a video editor, having worked as a freelancer on projects ranging from business promotions to social media content. My experience in video editing has taught me the importance of attention to detail and effective communication, skills that will serve me well in any career.
-
-I am excited to explore new opportunities and connect with like-minded professionals in the fields of data analytics and video production. Let's connect and see how we can collaborate to make a positive impact in our industries.
+🤝 Let's Connect
+I am always interested in connecting with other professionals in the field, so please don't hesitate to reach out to me on LinkedIn(https://www.linkedin.com/in/inaam-ullah-khan-b09535216/). Let's chat and see how we can collaborate!
